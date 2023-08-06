@@ -1,0 +1,29 @@
+﻿header {
+    height: 90px;
+    background: rgb(245,218,11);
+    background: linear-gradient(90deg, rgba(245,218,11,0.99781162464986) 59%, rgba(20,181,158,1) 100%);
+    border: 8px solid #595956;
+}
+
+.conbo {
+    text-align: right;
+    float: right;
+}
+
+.botonhe {
+    background-color: blue
+}
+
+.acerca {
+    height: 700px;
+    background: rgb(245,218,11);
+    background: linear-gradient(90deg, rgba(245,218,11,0.99781162464986) 59%, rgba(20,181,158,1) 100%);
+    border: 8px solid #595956;
+}
+
+footer {
+    height: 200px;
+    background: rgb(245,218,11);
+    background: linear-gradient(90deg, rgba(245,218,11,0.99781162464986) 59%, rgba(20,181,158,1) 100%);
+    border: 8px solid #595956;
+}
